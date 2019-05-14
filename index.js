@@ -21,6 +21,7 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(num){
   var newArray= []
+  do
   while(num <= 7)
 }
 
