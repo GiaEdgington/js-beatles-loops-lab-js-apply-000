@@ -13,7 +13,7 @@ function johnLennonFacts(array){
   let i = 0
   while(i < array.length){
     array[i]+= "!!!"
-    newArray.push(arrai[i])
+    newArray.push(array[i])
     i++
   }
   return newArray
@@ -23,8 +23,9 @@ function iLoveTheBeatles(num){
   var newArray= []
   do {
     newArray.push('I love the Beatles!')
+    num++
   }
-  while(num === 7)
+  while(num < 15)
 }
 
 
