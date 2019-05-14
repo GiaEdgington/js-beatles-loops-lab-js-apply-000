@@ -22,7 +22,7 @@ function johnLennonFacts(array){
 function iLoveTheBeatles(num){
   var newArray= []
   do {
-    
+    newArray.push('')
   }
   while(num <= 7)
 }
